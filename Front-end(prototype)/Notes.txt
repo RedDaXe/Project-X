@@ -1,4 +1,0 @@
-This will be the task for the front-end of this project:
-
-1) Adobe XD (done)
-2) Login Page
